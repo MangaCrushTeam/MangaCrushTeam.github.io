@@ -1,33 +1,14 @@
 {
     "list": [
         {
-            "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-            "tagText": "tag",
+            "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
             "tagList": [{
-                "text": "taaag",
-                "color": "#5fb350"
+                "text": "broken"
             }]
         },
         {
-            "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
-            "suffix": "suffix"
-        },
-        {
-            "pkg": "eu.kanade.tachiyomi.extension.all.asurascans",
-            "down": true
-        },
-        {
-            "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-            "suffix": " 😁",
-            "tagText": "broken",
-            "tagList": [{
-                "text": "broken",
-                "color": "#5fb350"
-            },
-            {
-                "text": "hahah",
-                "color": "#372b52"
-            }]
+            "pkg": "eu.kanade.tachiyomi.extension.zh.gufengmh",
+            "suffix": " ⚡️"
         }
     ]
 }
