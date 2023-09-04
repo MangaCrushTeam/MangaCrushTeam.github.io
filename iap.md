@@ -1,19 +1,17 @@
-## App In-App Purchase Terms
+## App In-App Purchase Frequently Asked Questions (FAQ)
+Q: How can I restore my previous purchases?
 
-Please carefully read these terms before making any in-app purchases within our iOS app. By making an in-app purchase, you agree to comply with these terms.
+A: To restore your previous purchases, please follow these steps:
 
-1. **Payment**: All in-app purchases must be made through the App Store using your Apple ID. You are responsible for any fees, taxes, or other charges associated with the purchase.
+Open the app and go to the settings -> Get premium.
+Look for the "Restore Purchases" option.
+Tap on it and enter your Apple ID and password when prompted.
+Your previous purchases will be restored, and you will have access to the upgraded premium version.
 
-2. **Content**: In-app purchases may provide access to additional content, features, or services within the app. The availability and description of each purchase will be clearly displayed within the app.
+Q: What is the renewal policy for the premium version subscription?
 
-3. **Refunds**: In-app purchases are generally non-refundable. However, if you encounter any technical issues or have concerns about your purchase, please contact our support team for assistance.
+A: The Pro version subscription will be renewed automatically according to the selected subscription plan (monthly, yearly, etc.) unless you cancel it at least 24 hours before the end of the current subscription period. The payment will be charged to your Apple ID account upon confirmation of the purchase.
 
-4. **Subscription Auto-Renewal**: If you purchase a subscription-based in-app purchase, it will automatically renew until canceled. You can manage and cancel your subscription through your App Store account settings.
+Q: What are the benefits of upgrading to the premium version?
 
-5. **Cancellation**: To cancel an auto-renewing subscription, you must do so at least 24 hours before the end of the current subscription period. Canceling a subscription does not entitle you to a refund for any unused portion of the subscription.
-
-6. **Changes**: We reserve the right to modify, update, or remove any in-app purchase, pricing, or terms without prior notice. However, any changes will not affect purchases that have already been made.
-
-7. **Responsibility**: You are solely responsible for maintaining the confidentiality of your Apple ID and for any purchases made using your account credentials.
-
-If you have any questions or need further assistance regarding in-app purchases, please contact our support team at mangacrushapp[at]gmail.com
+A: Upgrading to the premium version offers Ad-free experience.
