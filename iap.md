@@ -1,5 +1,8 @@
 ## In-App Purchase Frequently Asked Questions (FAQ)
-By subscribing to Tachimanga Premium you agree to the [Privacy Policy](https://github.com/MangaCrushTeam/MangaCrush/blob/main/PRIVACY.md)
+
+**Q: What is the condition for subscribing to Tachimanga Premium?**
+
+A: By subscribing to Tachimanga Premium you agree to the [Privacy Policy](https://github.com/MangaCrushTeam/MangaCrush/blob/main/PRIVACY.md)
 
 **Q: What is the renewal policy for the premium version subscription?**
 
