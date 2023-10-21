@@ -14,6 +14,18 @@
             "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
             "suffix": " 🔥🔥🔥",
             "top": true
+        },
+        {
+            "pkg": "eu.kanade.tachiyomi.extension.es.bokugentranslation",
+            "down": true
+        },
+        {
+            "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
+            "down": true
+        },
+        {
+            "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
+            "down": true
         }
     ]
 }
