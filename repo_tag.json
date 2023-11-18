@@ -18,6 +18,6 @@
         {
             "pkg": "eu.kanade.tachiyomi.extension.all.cubari",
             "down": true
-        },
+        }
     ]
 }
